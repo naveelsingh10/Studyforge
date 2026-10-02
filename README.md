@@ -1,2 +1,3 @@
 # Studyforge
-an ai tutor
+An AI Tutor
+
